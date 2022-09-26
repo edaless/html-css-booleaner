@@ -1,0 +1,66 @@
+
+*{
+    margin: 0;
+}
+
+header{
+
+    height: 80px;
+    background-image: url("../img/pattern.png");
+    background-size: 300px;
+    background-color:#44bcd8;
+}
+
+main{
+    margin:5px;
+}
+
+#the-booleaner{
+    color:#44bcd8;
+    font-weight: 600;
+}
+
+.grigio{
+    color:grey;
+    font-weight: 400;
+}
+
+.piccolo{
+    font-size: 0.6em;
+    font-weight: 600;
+
+}
+
+
+
+
+
+
+.highlighted{
+    display: inline-block;
+    background-color:  #ffff00;
+}
+
+
+.riga{
+    width: 100%;
+}
+.cella{
+    width:33%;
+    display:inline-block;
+    text-align: center;
+}
+
+.blu{
+    background-color: rgb(70, 143, 239);
+}
+
+.bianco{
+ 
+    color:white;
+
+}
+
+.azzurro{
+    background-color: rgb(29, 201, 223);
+}
